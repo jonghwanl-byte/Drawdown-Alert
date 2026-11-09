@@ -27,8 +27,8 @@ from zoneinfo import ZoneInfo
 import pandas as pd
 
 TICKERS = {
-    "XLE": "미국 에너지",
-    "SOXQ": "필라델피아 반도체",
+#    "XLE": "미국 에너지",
+#    "SOXQ": "필라델피아 반도체",
     "069500.KS": "한국 주식",
     "283580.KS": "중국 주식",
     "241180.KS": "일본 주식",
